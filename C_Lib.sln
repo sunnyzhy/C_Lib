@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C_Lib", "C_Lib\C_Lib.vcxproj", "{009D8708-20B0-4C35-B75C-2C7EAB6CA432}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Console_Lib", "Console_Lib\Console_Lib.vcxproj", "{1878A705-56A2-422A-91DC-AC2C2ABD1E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009D8708-20B0-4C35-B75C-2C7EAB6CA432}.Debug|Win32.ActiveCfg = Debug|Win32
+		{009D8708-20B0-4C35-B75C-2C7EAB6CA432}.Debug|Win32.Build.0 = Debug|Win32
+		{009D8708-20B0-4C35-B75C-2C7EAB6CA432}.Release|Win32.ActiveCfg = Release|Win32
+		{009D8708-20B0-4C35-B75C-2C7EAB6CA432}.Release|Win32.Build.0 = Release|Win32
+		{1878A705-56A2-422A-91DC-AC2C2ABD1E54}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1878A705-56A2-422A-91DC-AC2C2ABD1E54}.Debug|Win32.Build.0 = Debug|Win32
+		{1878A705-56A2-422A-91DC-AC2C2ABD1E54}.Release|Win32.ActiveCfg = Release|Win32
+		{1878A705-56A2-422A-91DC-AC2C2ABD1E54}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
